@@ -27,10 +27,6 @@ author:
   bio              : "Short bio"
   email            : "none@example.org" 
 
-  # Social media
-  facebook         : abc
-  twitter          : def
-
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
